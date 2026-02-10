@@ -1,0 +1,8 @@
+{
+    "weights": {
+        "required_skills": 0.50,
+        "preferred_skills": 0.25,
+        "experience": 0.15,
+        "keywords": 0.10
+    }
+}
